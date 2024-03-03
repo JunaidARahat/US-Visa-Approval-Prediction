@@ -21,3 +21,19 @@ conda activate visa
 ...
 pip install -r requirements.txt
 ...     
+
+# Workflows
+
+1. constant
+2. config_entity
+3. artifact_entity
+4. conponent
+5. pipeline
+6. app.py / demo.py
+
+# Export the environment variables for mongo db
+
+...
+  MONGODB_URL=mongodb+srv://:@cluster0.fsn8tpa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+...
