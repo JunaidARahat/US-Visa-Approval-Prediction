@@ -34,6 +34,15 @@ pip install -r requirements.txt
 # Export the environment variables for mongo db
 
 ...
+
   MONGODB_URL=mongodb+srv://:@cluster0.fsn8tpa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+...
+
+...
+
+    AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
+
+    AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 ...
