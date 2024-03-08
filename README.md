@@ -46,3 +46,10 @@ pip install -r requirements.txt
     AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 
 ...
+
+
+...
+
+python app.py
+
+...
